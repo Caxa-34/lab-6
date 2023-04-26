@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="btnnew">New</string>
+    <string name="btnedit">Edit</string>
+    <string name="btndel">Delete</string>
+    <string name="btnok">Ok</string>
+    <string name="btncancel">Cancel</string>
+    <string name="txttitle">Title</string>
+    <string name="txtcontent">Content</string>
+</resources>
